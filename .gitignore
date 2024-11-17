@@ -1,2 +1,9 @@
+### DIRS ###
+
+tempPrj/
+
+
+### FILES ###
+
 .DS_Store
 */.DS_Store
